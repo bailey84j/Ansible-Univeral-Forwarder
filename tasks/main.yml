@@ -1,2 +1,3 @@
 ---
 # tasks file for universal_forwarder/
+- include: forwarder.yml
